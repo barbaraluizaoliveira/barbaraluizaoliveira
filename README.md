@@ -17,7 +17,8 @@ Desenvolvedora backend em constante aprendizado e apaixonada por tecnologia e ed
 - 🎓 Cursando **Sistemas para Internet** na Universidade Católica de Pernambuco
 - 🔭 Atualmente trabalhando com **desenvolvimento backend**
 - 📱 Experiência anterior em **desenvolvimento mobile**
-- 🌱 Aprimorando conhecimentos em **Python**, **Java** e **TypeScript**
+- 🌱 Aprimorando conhecimentos em **Python** e **TypeScript**
+- 👩‍💻 Participante do curso **Vem Pra Dados, Mulher!**, focado em análise de dados
 - 📫 Contato: [barbaraluizaoliveiradev@gmail.com](mailto:barbaraluizaoliveiradev@gmail.com)
 ---
 Vamos construir e evoluir juntos(as)! 🚀
